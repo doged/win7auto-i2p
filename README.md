@@ -1,7 +1,9 @@
 # win7auto-i2p wallet install v1.0
-windows 7 auto install for doged wallet &amp; i2p anon network
+Windows 7 auto-install for doged wallet &amp; i2p anon network
 
-Run install.bat and follow instructions. At the end, the wallet will launch on i2p network. 
+Run install.bat and follow instructions. i2p will install, then wallet will launch. 
+
+At the end, the wallet will launch on i2p network. 
 
 This takes a while for the first time. (anywhere from 2-10 minutes)
 
