@@ -1,3 +1,5 @@
+![i2P-DOGED](http://i.imgur.com/kHs8cF3.png)
+
 # win7auto-i2p wallet install v1.0
 Windows 7 auto-install for doged wallet &amp; i2p anon network
 
